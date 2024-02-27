@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(13, 235, 235);
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 90%;
+  margin: 50px auto;
+  background-color: teal;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: white;
+}
+
+h1 {
+  color: gold;
+  font-weight: bolder;
+}
+
+p {
+  color: white;
+  font-weight: bolder;
+}
+
+span {
+  font-weight: bold;
+  color: black;
+  font-weight: bolder;
+}
